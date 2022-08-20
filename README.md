@@ -7,9 +7,9 @@ In a company, measuring business performance is very important to track, monitor
 ## Data Preparation
 ---
 Before we start to analyze, we need to prepare the dataset first. Below are the steps that I did to prepare the dataset.
-1. Data Collecting : I collect data from the given resource in csv format. We have total 8 files with various number of fields.
-2. Database Preparation : I create new database and new tables in PostgreSQL to store all of the data that we got by importing those data into each tables.
-3. Generate Entity Relationship Diagram : In order to simplify our understanding about each tables relationship, I create Entity Relationship Diagram used PostgreSQL generate ERD tools.
+1. **Data Collecting** : I collect data from the given resource in csv format. We have total 8 files with various number of fields.
+2. **Database Preparation** : I create new database and new tables in PostgreSQL to store all of the data that we got by importing those data into each tables.
+3. **Generate Entity Relationship Diagram** : In order to simplify our understanding about each tables relationship, I create Entity Relationship Diagram used PostgreSQL generate ERD tools.
 
 ## Analyzing eCommerce Business Performance
 ---
